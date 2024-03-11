@@ -1,0 +1,32 @@
+[
+    {
+    "id" : 5,
+    "name" : "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki ",
+    "image" : "https://cdn.gramedia.com/uploads/items/9786020333175_rich-dad-poor-dad-_edisi-revisi_.jpg"
+    },
+    {
+    "id" : 4,
+    "name" : "Harry Potter",
+    "author": "J.K Rowling",
+    "image" : "https://th.bing.com/th/id/R.847ff818eb060a80aa401c0273ee49ef?rik=PitBxG7NXly9yA&riu=http%3a%2f%2fi2.wp.com%2fgeekdad.com%2fwp-content%2fuploads%2f2013%2f02%2fHP1-Kibuishi.jpg&ehk=uafYYv3yMqpRGlecJf0Si6SPSZwksDcZUzc982%2byhlQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+    "id" : 3,
+    "name" : "Dhoni",
+    "author": "Dhoni",
+    "image" : "https://th.bing.com/th/id/R.49c58061fa4c57e46dc7b896104edb30?rik=GeTz4Fg0dQpW8w&riu=http%3a%2f%2fdrcricket7.com%2findia%2fwp-content%2fuploads%2f2016%2f09%2fMS-Dhoni-The-Untold-Story-Poster-2.jpg&ehk=aA1O226cgtJNrXL89e0XTZHg5QqOmtB0f5GGvsXzo1U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+    "id" : 2,
+    "name" : "Narnia",
+    "author": "C. S. Lewis",
+    "image" : "https://cdn11.bigcommerce.com/s-zg6cb2/images/stencil/2560w/products/1633/2251/Chronicles__74223.1626774641.jpg?c=2"
+    },
+    {
+    "id" : 1,
+    "name" : "Sutter island",
+    "author": "leonardo dicrapio",
+    "image" : "https://i.pinimg.com/originals/bd/8e/e3/bd8ee3c304b8b0f7d0c2ee5220d9572a.jpg"
+    }
+]
