@@ -72,9 +72,9 @@ const AddBook = () => {
       errorHandler4();
       return;
     }
-
+let value = book[0].id ? book[0].id + 1 : 0
     let user = {
-      id: book[0].id + 1,
+      id: value,
       name,
       image,
       author,
