@@ -72,7 +72,7 @@ const AddBook = () => {
       errorHandler4();
       return;
     }
-let value = book[0].id ? book[0].id + 1 : 0
+let value = book.length !== 0 ? book[0].id + 1 : 0 
     let user = {
       id: value,
       name,
